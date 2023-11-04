@@ -1,2 +1,5 @@
 # Testng-QA
 UTS Testing dan QA Perangkat Lunak
+NAMA : YUDHA FEBRIANSYAH
+NIM : 201011400195
+KELAS : 07TPLE010
